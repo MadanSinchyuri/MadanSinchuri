@@ -19,7 +19,6 @@
 
 
 
-- 👀 I’m interested in Programming in c, c++, java , software development and UI/UX.
 
 <!---
 MadanSinchuri/MadanSinchuri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

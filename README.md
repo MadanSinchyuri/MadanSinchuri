@@ -1,9 +1,25 @@
-- 👋 Hi, I’m @MadanSinchuri
+- 👋 Hi, I’m @MadanSinchyuri
+- Video Editor/  Motion Graphics Deginer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 - 👀 I’m interested in Programming in c, c++, java , software development and UI/UX.
-- 🌱 I’m currently learning java and c++.
-- 💞️ I’m looking to collaborate on my personal projects.
-- 📫 How to reach me madansinchuri19@gmail.com
-- ⚡ Fun fact: silent killer, 
 
 <!---
 MadanSinchuri/MadanSinchuri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
